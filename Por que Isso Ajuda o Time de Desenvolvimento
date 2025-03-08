@@ -1,0 +1,14 @@
+
+Visibilidade para Todos: Com o repositório, todos da equipe têm um lugar único para acompanhar o progresso do projeto. Eles podem ver facilmente o que foi feito, o que falta fazer e se há algo que precisa ser ajustado.
+
+Controle e Histórico: Usar o Git permite que todo o histórico de alterações do projeto seja registrado. Isso ajuda a saber quem fez o quê, quando e por que. Se algo der errado, é fácil voltar atrás e entender o que aconteceu.
+
+Colaboração Facilita: O repositório é um ambiente colaborativo. Vários membros podem trabalhar em partes do código ao mesmo tempo, sem sobrepor o trabalho dos outros. A utilização de "branches" para diferentes funcionalidades também evita problemas.
+
+Acompanhamento das Tarefas: Com um arquivo de progresso, é mais fácil para o time planejar e acompanhar o andamento das tarefas. Isso facilita na hora de priorizar o que precisa ser feito, especialmente em ciclos de desenvolvimento mais curtos, como sprints.
+
+Automatização e Ganho de Eficiência: É possível automatizar algumas tarefas, como testes e integrações, usando ferramentas como GitHub Actions. Isso garante que o trabalho seja feito de forma mais rápida e sem erros.
+
+Facilidade para Novos Membros: Se alguém entrar para o time, o repositório vai ajudar bastante. Ele pode entender rapidamente o estado atual do projeto e o que precisa ser feito, sem precisar perguntar a todo momento.
+
+Compartilhamento de Conhecimento: O repositório serve como um local para guardar toda a documentação importante, como guias e melhores práticas. Isso ajuda a manter o código organizado e todos na equipe alinhados.
